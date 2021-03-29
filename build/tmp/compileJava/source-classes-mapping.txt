@@ -1,2 +1,0 @@
-com/leszko/calculator/CalculatorApplication.java
- com.leszko.calculator.CalculatorApplication
